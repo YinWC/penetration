@@ -3,15 +3,6 @@
 ### 点个小星星呗～
 ### 欢迎继续提供相关资料，可以issue或者pull request
 
-
-### 收集不易 分享请注明来源～
-https://github.com/w1109790800/penetration
-
-### 欢迎关注我的公众号：
-![](http://baobaiqiang.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_8a7f39bf3a00_344.jpg)
-### 我的小程序：
-<img src="http://baobaiqiang.oss-cn-beijing.aliyuncs.com/123/qr.jpg" width="300" hegiht="313" align=center />
-
 ## 目录结构
 
 ```
